@@ -16,8 +16,6 @@ gem 'redis-store', '~> 1.0.0'
 gem 'capistrano'
 gem 'unicorn'
 gem 'newrelic_rpm'
-gem 'omniauth'
-gem "omniauth-facebook"
 gem 'sinatra', '~> 1.3.0'
 gem 'resque'
 gem 'resque_mailer'
